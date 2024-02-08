@@ -15,7 +15,11 @@ Now I'm able to design and develop complete applications works on different vers
 
 ## GitHub Stats 📈
 <div>
- 
+  <p align="center">    
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAanwar&theme=solarized" /> <br/> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAanwar&theme=solarized" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedAanwar&theme=solarized"/>  
+  </p>
 </div>
 
 ## My Skills 🤹
